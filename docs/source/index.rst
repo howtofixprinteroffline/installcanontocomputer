@@ -158,33 +158,43 @@ Frequently Asked Questions (FAQs)
 --------------------------------
 
 Q1. How do I install my Canon printer to my computer?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A: Connect the printer via USB or WiFi and install drivers using Canon setup software.
 
 Q2. Can I install my Canon printer without a CD?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A: Yes, you can download drivers from Canon official website.
 
 Q3. Why is my computer not detecting my Canon printer?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A: This may be due to connection issues or missing drivers.
 
 Q4. Do I need drivers to install my Canon printer?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A: Yes, drivers are required for proper communication.
 
 Q5. How do I reinstall my Canon printer?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A: Remove the printer and install it again using updated drivers.
 
 Q6. Can I install Canon printer wirelessly?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A: Yes, using WiFi setup method.
 
 Q7. Why is my printer offline after installation?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A: Check connection and disable offline mode.
 
 Q8. Is Canon setup software necessary?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A: It is recommended for smooth and complete installation.
 
 Q9. How do I set my Canon printer as default?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A: Go to printer settings and select “Set as Default.”
 
 Q10. What if installation fails?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A: Try reinstalling drivers or use troubleshooting tools.
 
 Conclusion
